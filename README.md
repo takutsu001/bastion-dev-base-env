@@ -1,7 +1,9 @@
 # bastion-dev-base-env
 
 ## はじめに
-本 Bicep は [Azure Arc へのオンプレサーバーの登録（一部閉域化）](https://zenn.dev/microsoft/articles/zenn-arc-esu-private) のベース環境を作成するBicepです
+本 Bicep は [検証環境でも Azure Bastion を使ってセキュリティを高めよう](https://zenn.dev/articles/zenn-bastion) のベース環境を作成するBicepです
+
+※記事はまだ作成中のため未公開
 
 ## 構成図
 ![](/images/bastion-dev-topology.png)
