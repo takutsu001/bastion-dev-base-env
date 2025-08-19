@@ -3,8 +3,6 @@
 ## はじめに
 本 Bicep は [検証環境でも Azure Bastion Developer を使ってセキュリティを高めよう](https://zenn.dev/microsoft/articles/zenn-bastion) のベース環境を作成するBicepです
 
-※記事はまだ作成中のため未公開
-
 ## 構成図
 ![](/images/bastion-dev-topology.png)
 
